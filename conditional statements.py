@@ -60,7 +60,11 @@ else:
 
 
 
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> de5c938 (python materials)
 
 
 

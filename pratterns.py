@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 '''
 #nested loops--->a loop placed inside another loop---->patterns generations...
 syntax:
@@ -56,11 +57,17 @@ for i in range(1,n):
     print()
     
 n=5
+=======
+'''n=5
+>>>>>>> de5c938 (python materials)
 for i in range(n,0,-1):
     for j in range(i):
         print("*",end=' ')
     print()
+<<<<<<< HEAD
     
+=======
+>>>>>>> de5c938 (python materials)
 n=1
 for i in range(5):
     for j in range(i):
@@ -73,6 +80,7 @@ for i in range(5):
     for j in range(i):
         print(chr(n),end=' ')
         n=n+1
+<<<<<<< HEAD
     print()
     
 
@@ -87,6 +95,12 @@ for i in range(65,70):
         print(chr(j),end=" ")
     print()
     
+=======
+    print()'''
+
+
+
+>>>>>>> de5c938 (python materials)
 n=5
 for i in range(1,n+1): 
     for j in range(1,n+1):
@@ -95,7 +109,11 @@ for i in range(1,n+1):
         else:
             print("*",end=" ")
     print()
+<<<<<<< HEAD
 '''
+=======
+
+>>>>>>> de5c938 (python materials)
 n=5
 for i in range(1,n): 
     for j in range(1,n+1):
@@ -111,6 +129,35 @@ for i in range(n,0,-1):
         else:
             print("*",end=" ")
     print()
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> de5c938 (python materials)
     
 
 
